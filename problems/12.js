@@ -19,3 +19,7 @@ function divisors (number) {
 	console.log(div);
 	return div;
 }
+
+/* 	this is waaaayyy too slow 
+	found something like 380 divisor in 15min
+*/
