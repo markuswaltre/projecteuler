@@ -8,7 +8,6 @@ def divisors (number):
 		if number%i == 0:
 			div+=1
 
-	print div
 	return div
 
 while True:
